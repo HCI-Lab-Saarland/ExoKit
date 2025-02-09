@@ -1,0 +1,1 @@
+The code provided in "concept" and "reaction" implements the interaction concepts presented in the paper. The algorithms are described as pseudocode in the paper's supplemental material (https://github.com/HCI-Lab-Saarland/ExoKit/blob/main/misc/Algorithms.pdf). Please refer to this supplemental material for more details.
